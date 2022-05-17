@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A95790A8-02F3-4C53-B42A-5A31C88568AE}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BeerProject/Utility/Model/EntityContext.cs">
+    <Files>
+      <File FileName="BeerProject/Controllers/ProductController.cs" Line="254" Column="46" />
+      <File FileName="BeerProject/appsettings.json" Line="1" Column="1" />
+      <File FileName="BeerProject/Properties/launchSettings.json" Line="18" Column="8" />
+      <File FileName="BeerProject/Utility/Model/EntityContext.cs" Line="24" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BeerProject" expanded="True">
+            <Node name="BeerProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Utility" expanded="True">
+                <Node name="Model" expanded="True">
+                  <Node name="EntityContext.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BeerProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
